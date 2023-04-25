@@ -1,3 +1,3 @@
 [submodule "bothink-core"]
 	path = bothink-core
-	url = ../bothink-core.git
+	url = https://github.com/bothinli/bothink-core.git
